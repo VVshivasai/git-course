@@ -5,3 +5,24 @@ Take input from user
 push data into database.
 
 New line is added into the file.
+
+// Move Zeros to end
+
+public static void moveZero(int arr[]){
+    //find first occurrance of Zeros
+    int j = 0;
+    for(int i = 0; i<n; i++){
+        if(arr[i]==0){
+            j = i;
+            break;
+        }
+    }
+
+    for(int i = j+1; i<n ; i++){
+        if(arr[i]!=0){
+            swap(arr[i],arr[j]);
+            j++;
+        }
+    }
+    return;
+}
