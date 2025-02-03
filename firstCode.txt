@@ -3,3 +3,5 @@ Hello World..
 Take input from user
 
 push data into database.
+
+New line is added into the file.
