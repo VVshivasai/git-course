@@ -1,3 +1,1 @@
-this is the second file created in feature1 branch.
-this is  branch f2
-this is a remote repository.
+lite -version , so nothing
