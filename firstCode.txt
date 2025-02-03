@@ -26,3 +26,5 @@ public static void moveZero(int arr[]){
     }
     return;
 }
+
+git main is modified.
