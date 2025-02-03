@@ -1,3 +1,2 @@
 this is the second file created in feature1 branch.
-Created a new branch f2
 
